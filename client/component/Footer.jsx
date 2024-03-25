@@ -17,7 +17,7 @@ export default function FooterCom() {
               Blog
             </Link>
           </div>
-          <div className="grid grid-cols-2 gap-8 mt-4 sm:grid-cols-3 sm:gap-6">
+          <div className="grid grid-cols-4 gap-8 mt-4 sm:grid-cols-3 sm:gap-6">
             <div>
               <Footer.Title title="About" />
               <Footer.LinkGroup col>
@@ -47,7 +47,10 @@ export default function FooterCom() {
                 >
                   Github
                 </Footer.Link>
-                <Footer.Link href="#">Discord</Footer.Link>
+                <Footer.Link href="#">Instagram</Footer.Link>
+                <Footer.Link href="#">Facebook</Footer.Link>
+                <Footer.Link href="#">Youtube</Footer.Link>
+                <Footer.Link href="#">Tiktok</Footer.Link>
               </Footer.LinkGroup>
             </div>
             <div>

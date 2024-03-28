@@ -48,9 +48,9 @@ export default function FooterCom() {
                   Github
                 </Footer.Link>
                 <Footer.Link href="#">Instagram</Footer.Link>
-                <Footer.Link href="#">Facebook</Footer.Link>
+                {/* <Footer.Link href="#">Facebook</Footer.Link>
                 <Footer.Link href="#">Youtube</Footer.Link>
-                <Footer.Link href="#">Tiktok</Footer.Link>
+                <Footer.Link href="#">Tiktok</Footer.Link> */}
               </Footer.LinkGroup>
             </div>
             <div>
